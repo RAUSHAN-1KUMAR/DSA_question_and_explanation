@@ -9,7 +9,7 @@ void fun(){
 }
 
 int main(){
-
+    int a=10;
     fun();
 
     funFromSecond(); //-> this function is in another cpp file.
